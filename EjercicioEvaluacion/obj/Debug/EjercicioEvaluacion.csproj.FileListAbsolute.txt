@@ -1,0 +1,8 @@
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\bin\Debug\EjercicioEvaluacion.exe.config
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\bin\Debug\EjercicioEvaluacion.exe
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\bin\Debug\EjercicioEvaluacion.pdb
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\obj\Debug\EjercicioEvaluacion.csproj.AssemblyReference.cache
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\obj\Debug\EjercicioEvaluacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\obj\Debug\EjercicioEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\obj\Debug\EjercicioEvaluacion.exe
+C:\Users\Ferdy\source\repos\EjercicioEvaluacion\EjercicioEvaluacion\obj\Debug\EjercicioEvaluacion.pdb
